@@ -1,5 +1,7 @@
 # react-native-custom-tabbar
 
+https://github.com/user-attachments/assets/f2e806b2-3016-4a14-9f3d-0f79139e5510
+
 ## Requirements
 - iOS 12.0+
 - Xcode 12+
